@@ -32,5 +32,5 @@ export const gentleman: GentlemanType[] =
     picture: "julio.jpg",
     alternativeText: "Churchs pointing at you",
     selected: true,
-  },
+  }
 ];
